@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: black;
+    color: goldenrod;
+}
+
+h1{
+    font-size: medium;
+    height: 5vh;
+    width: 100vw;
+}
+
+img{
+    display: flex;
+    height: 50vh;
+    width: 100vw;
+}
+
+.arriba{
+    margin-top: 30px;
+}
+
+.abajo{
+    margin-bottom: 10px;
+}
+
+p, h1{
+    margin: 10px 20px;
+    padding: 20px 0px;
+}
