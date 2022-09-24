@@ -83,3 +83,11 @@ h2{
     text-decoration: underline;
     margin-top: 10px;
 }
+
+.ganador{
+    background-color: green;
+}
+
+.perdedor{
+    background-color: red;
+}
